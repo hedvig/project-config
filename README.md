@@ -1,1 +1,1 @@
-# project-config repository
+# project-config
